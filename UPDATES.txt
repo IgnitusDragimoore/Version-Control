@@ -1,0 +1,2 @@
+-Removed RELEASENOTES.txt
+-Added UPDATES.txt
